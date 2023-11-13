@@ -24,6 +24,7 @@ I'm proficient in various programming languages and technologies, including:
 - Bootstrap
 - Php
 - Mysql
+- Tailwind
 
 ## Get in Touch
 
