@@ -20,7 +20,7 @@ I'm proficient in various programming languages and technologies, including:
 - HTML/CSS
 - Git/GitHub
 - Node.js
-- React
+- Vue.js
 - Bootstrap
 - Php
 - Mysql
