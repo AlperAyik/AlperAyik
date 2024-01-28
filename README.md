@@ -3,7 +3,7 @@
 Hi there! 👋 I'm Alper Ayik, a 20-year-old student and passionate front-end developer. Welcome to my GitHub profile.
 
 ## About Me
-At the moment i am looking for an internship as a Front-end and(Fullstack) developer. 
+At the moment i have an internship at Waternet as a front-end developer 
 
 - 🎓 I'm currently a student, eager to learn and explore the world of technology.
 - 💻 I love coding and building webpages.
