@@ -1,36 +1,45 @@
 # About Me
 
-Hi there! 👋 I'm Alper Ayik, a 21-year-old student and passionate front-end developer. Welcome to my GitHub profile.
+Hi there! 👋 I'm **Alper Ayik**, a 21-year-old student and passionate front-end developer. Welcome to my GitHub profile!
 
 ## About Me
-At the moment i have an internship at Waternet as a front-end developer 
+I’m currently interning at **Waternet** as a front-end developer, where I contribute to building innovative and user-friendly web solutions. 
 
-- 🎓 I'm currently a student, eager to learn and explore the world of technology.
-- 💻 I love coding and building webpages.
-- 🌟 Open source enthusiast and a strong believer in the power of collaboration.
-- 📚 Always seeking to expand my knowledge and skills in the software development field.
-- 🚀 I'm on a journey to turn my dreams into reality through code.
+- 🎓 A student with a thirst for knowledge, always eager to learn and explore the world of technology.
+- 💻 Passionate about coding, especially crafting elegant and functional web interfaces.
+- 🌟 Advocate for open-source and a firm believer in the power of collaboration.
+- 📚 Constantly learning new tools and technologies to expand my skill set.
+- 🚀 On a mission to turn ideas into impactful digital experiences.
 
 ## Skills
 
-I'm proficient in various programming languages and technologies, including:
+Here are some tools and technologies I work with:
 
-- Git/GitHub
-- HTML/CSS
-- Bootstrap
-- JavaScript
-- Tailwind
-- Node.js
+### **Frontend Frameworks & Libraries**
 - Vue.js
-- Php
-- Mysql
-- Python
+- Lit.js
+- Bootstrap, Tailwind CSS
+- Chart.js
+- Ramda.js
+
+### **Programming Languages**
+- JavaScript, TypeScript
+- Python, PHP, C#
+
+### **Backend & Database**
+- Node.js
+- MySQL
+
+### **Other Tools**
+- Git/GitHub
+- Responsive Design with HTML/CSS
+
 ## Get in Touch
 
-I'm always open to connecting with fellow developers, sharing ideas, and collaborating on interesting projects. Feel free to reach out to me:
+I’m always open to connecting with fellow developers, sharing ideas, and collaborating on interesting projects. Feel free to reach out:
 
-- GitHub: [GitHub Profile](https://github.com/AlperAyik)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/alper-ayik-5b8812209/)
-- Email: [alperayik06@gmail.com]
+- 🌐 GitHub: [GitHub Profile](https://github.com/AlperAyik)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/alper-ayik-5b8812209/)
+- 📧 Email: [alperayik06@gmail.com]
 
-Let's learn, grow, and build awesome things together! 😄
+Let’s learn, grow, and build awesome things together! 😄
