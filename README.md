@@ -28,6 +28,7 @@ Here are some tools and technologies I work with:
 
 ### **Backend & Database**
 - Node.js
+- MongoDB
 - MySQL
 
 ### **Other Tools**
