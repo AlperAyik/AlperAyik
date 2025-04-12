@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm **Alper Ayik**, a 21-year-old student and passionate front-end developer. Welcome to my GitHub profile!
+Hi there! 👋 I'm **Alper Ayik**, a 22-year-old student and passionate front-end developer. Welcome to my GitHub profile!
 
 ## About Me
 I’m currently interning at **Waternet** as a front-end developer, where I contribute to building innovative and user-friendly web solutions. 
