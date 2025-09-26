@@ -34,6 +34,8 @@ Here are some tools and technologies I work with:
 ### **Other Tools**
 - Git/GitHub
 - Responsive Design with HTML/CSS
+- Figma
+- Adobe
 
 ## Get in Touch
 
