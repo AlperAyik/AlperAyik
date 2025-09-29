@@ -31,6 +31,10 @@ Here are some tools and technologies I work with:
 - MongoDB
 - MySQL
 
+### **Automated testing**
+- Jasmine
+- Cypress
+
 ### **Other Tools**
 - Git/GitHub
 - Responsive Design with HTML/CSS
