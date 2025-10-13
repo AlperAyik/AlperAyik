@@ -24,7 +24,7 @@ Here are some tools and technologies I work with:
 
 ### **Programming Languages**
 - JavaScript, TypeScript
-- Python, PHP, C#
+- Python, PHP, C#, C++
 
 ### **Backend & Database**
 - Node.js
