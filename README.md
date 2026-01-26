@@ -3,7 +3,17 @@
 Hi there! 👋 I'm **Alper Ayik**, a 22-year-old student and passionate front-end developer. Welcome to my GitHub profile!
 
 ## About Me
-I’m currently interning at **Waternet** as a front-end developer, where I contribute to building innovative and user-friendly web solutions. 
+I’m currently working on a property listing website focused on usability and data insights.
+Key features include:
+	•	🏠 Add & manage property listings
+	•	🔍 Search and filter homes by price, location, and more
+	•	📩 Contact page for reaching the company directly
+	•	📊 Analytics dashboard with charts showing:
+	•	Most popular areas
+	•	Average home prices
+	•	Market trends at a glance
+
+This project is helping me strengthen my full-stack skills while working with real-world data and user-focused design.. 
 
 - 🎓 A student with a thirst for knowledge, always eager to learn and explore the world of technology.
 - 💻 Passionate about coding, especially crafting elegant and functional web interfaces.
