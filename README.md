@@ -1,6 +1,6 @@
 About Me
 
-Hi there! 👋 I’m Alper Ayik, a 22-year-old student and passionate front-end developer. Welcome to my GitHub profile!
+Hi there! 👋 I’m Alper Ayik, a 23-year-old student and passionate front-end developer. Welcome to my GitHub profile!
 
 I’m currently working on a property listing website focused on usability and data insights. Key features include:
 • 🏠 Add & manage property listings
