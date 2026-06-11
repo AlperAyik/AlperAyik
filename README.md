@@ -26,6 +26,7 @@ Skills
 Frontend Frameworks & Libraries
 	•	Vue.js
 	•	Lit.js
+	• 	Nuxt
 	•	Bootstrap, Tailwind CSS
 	•	Chart.js
 	•	Ramda.js
@@ -48,6 +49,7 @@ Other Tools
 	•	Responsive Design with HTML/CSS
 	•	Figma
 	•	Adobe
+	• 	Unity
 
 Get in Touch
 
