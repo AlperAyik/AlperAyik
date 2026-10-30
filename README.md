@@ -39,6 +39,7 @@ Backend & Database
 	•	Node.js
 	•	MongoDB
 	•	MySQL
+	• 	Flask
 
 Automated Testing
 	•	Jasmine
@@ -50,6 +51,7 @@ Other Tools
 	•	Figma
 	•	Adobe
 	• 	Unity
+	• 	Docker
 
 Get in Touch
 
